@@ -9,4 +9,7 @@
 	url = https://github.com/transmissions11/solmate
 [submodule "lib/foundry-devops"]
 	path = lib/foundry-devops
-	url = https://github.com/Cyfrin/foundry-devops
+	url = https://github.com/cyfrin/foundry-devops
+[submodule "lib/headers"]
+	path = lib/headers
+	url = https://github.com/transmissions11/headers
